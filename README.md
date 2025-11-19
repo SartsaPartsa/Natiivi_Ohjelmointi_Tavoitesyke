@@ -31,6 +31,7 @@ Peruslaskentaan ja syötteen validointiin
 ### ✨ Toiminnallisuus
 Käyttäjä syöttää iän tekstikenttään (TextField)
 Syöte hyväksyy vain numerot (keyboardType = KeyboardType.Number)
+
 Tulostetaan reaaliajassa:
 Tavoitesykkeen alalimit
 Tavoitesykkeen ylälimit
