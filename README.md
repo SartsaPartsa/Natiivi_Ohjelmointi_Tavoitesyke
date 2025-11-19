@@ -62,7 +62,7 @@ Tekstit haetaan string-resursseista
 ### Jetpack Compose
 https://developer.android.com/jetpack/compose – Virallinen Compose-dokumentaatio
 https://developer.android.com/reference/kotlin/androidx/compose/material3/TextField – Tekstisyötteen käsittely
-https://developer.android.com/jetpack/compose/layouts/basics – Layout-komponentit
+https://developer.android.com/jetpack/compose/layouts/basics – Layout-komponentit 
 https://developer.android.com/jetpack/compose/state – Tilanhallinta (remember, mutableStateOf)
 
 ### Android-dokumentaatio:
