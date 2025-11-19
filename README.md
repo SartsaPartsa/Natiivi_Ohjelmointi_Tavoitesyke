@@ -37,7 +37,7 @@ Tulostetaan reaaliajassa:
 Tavoitesykkeen alalimit
 Tavoitesykkeen ylälimit
 Laskentaa tehdään vain, kun ikä on suurempi kuin 0
-Tulokset muotoillaan kahden desimaalin tarkkuudella
+Tulokset muotoillaan yhden desimaalin tarkkuudella
 Tekstit haetaan string-resursseista
 
 ---
