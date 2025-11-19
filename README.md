@@ -11,7 +11,7 @@
 
 ### 🧩 Tehtävän kuvaus
 
-Tämän tehtävän tavoitteena on toteuttaa Android-sovellus, joka laskee liikunnan tavoitesykkeen ala- ja ylärajat käyttäjän iän perusteella.
+Tämän tehtävän tavoitteena on toteuttaa Android-sovellus, joka laskee liikunnan tavoitesykkeen ala- ja ylärajat käyttäjän iän perusteella. 
 Sovellus tehdään Kotlinilla ja Jetpack Compose -käyttöliittymäkirjastolla.
 Tehtävä toimii johdantona:
 Jetpack Composen perusrakenteisiin
@@ -60,5 +60,17 @@ Tekstit haetaan string-resursseista
 ## 📚 Oppimisresurssit
 
 ### Jetpack Compose
-https://developer.android.com/jetpack/compose
+https://developer.android.com/jetpack/compose – Virallinen Compose-dokumentaatio
+https://developer.android.com/reference/kotlin/androidx/compose/material3/TextField – Tekstisyötteen käsittely
+https://developer.android.com/jetpack/compose/layouts/basics – Layout-komponentit
+https://developer.android.com/jetpack/compose/state – Tilanhallinta (remember, mutableStateOf)
+
+### Android-dokumentaatio:
+https://developer.android.com/docs – Virallinen Android-dokumentaatio
+https://developer.android.com/studio/intro – Android Studion käyttö
+https://developer.android.com/studio/run/managing-avds – Emulaattorien hallinta
+
+### Kotlin:
+https://kotlinlang.org/docs/home.html – Kotlin-kielen virallinen dokumentaatio
+https://play.kotlinlang.org/koans/overview – Harjoituksia Kotlinin oppimiseen
 
