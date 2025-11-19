@@ -66,11 +66,11 @@ https://developer.android.com/jetpack/compose/layouts/basics – Layout-komponen
 https://developer.android.com/jetpack/compose/state – Tilanhallinta (remember, mutableStateOf)
 
 ### Android-dokumentaatio:
-https://developer.android.com/docs – Virallinen Android-dokumentaatio
+https://developer.android.com/docs – Virallinen Android-dokumentaatio 
 https://developer.android.com/studio/intro – Android Studion käyttö
 https://developer.android.com/studio/run/managing-avds – Emulaattorien hallinta
 
 ### Kotlin:
-https://kotlinlang.org/docs/home.html – Kotlin-kielen virallinen dokumentaatio
+https://kotlinlang.org/docs/home.html – Kotlin-kielen virallinen dokumentaatio 
 https://play.kotlinlang.org/koans/overview – Harjoituksia Kotlinin oppimiseen
 
