@@ -1,0 +1,2013 @@
+Index: .idea/libraries/Gradle__androidx_test_ext_junit_1_3_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_test_ext_junit_1_3_0_aar.xml b/.idea/libraries/Gradle__androidx_test_ext_junit_1_3_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_test_ext_junit_1_3_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.test.ext:junit:1.3.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/7f8fbd4ea4728d88c5475634937d6a1e/transformed/junit-1.3.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7f8fbd4ea4728d88c5475634937d6a1e/transformed/junit-1.3.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.3.0/3beee303ec5f7bb9c2acfd04b10403494df90b9d/junit-1.3.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml b/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: com.google.guava:listenablefuture:1.0" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="com.google.guava" artifactId="listenablefuture" version="1.0" baseVersion="1.0" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/c949a840a6acbc5268d088e47b04177bf90b3cad/listenablefuture-1.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/c6fc3e29c8cc24b39c2cd8f66b41bf40e342901c/listenablefuture-1.0-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/be1234988ac73d61e52e35a912169b06020caa7/listenablefuture-1.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_android_2_9_4_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_android_2_9_4_aar.xml b/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_android_2_9_4_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_android_2_9_4_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/320d859c6acb8a0d09e1b5a25164c7fe/transformed/lifecycle-viewmodel-savedstate-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/320d859c6acb8a0d09e1b5a25164c7fe/transformed/lifecycle-viewmodel-savedstate-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/320d859c6acb8a0d09e1b5a25164c7fe/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate-android/2.9.4/f0e6ff50f158c97ed29349cdb28ca5b372205f46/lifecycle-viewmodel-savedstate-2.9.4-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate-android/2.9.4/a81b2ca260eb4e70c8b98fde5edfa26f447f7caf/lifecycle-viewmodel-savedstate-android-2.9.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_activity_activity_compose_1_11_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_activity_activity_compose_1_11_0_aar.xml b/.idea/libraries/Gradle__androidx_activity_activity_compose_1_11_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_activity_activity_compose_1_11_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.activity:activity-compose:1.11.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/ac26d093ee306f59d0e0ab9c61f27ba1/transformed/activity-compose-1.11.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/ac26d093ee306f59d0e0ab9c61f27ba1/transformed/activity-compose-1.11.0/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/ac26d093ee306f59d0e0ab9c61f27ba1/transformed/activity-compose-1.11.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-compose/1.11.0/1500484dd23a73adf5694945a21fa50b7a4c9270/activity-compose-1.11.0-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-compose/1.11.0/47fa378780764e0c90ec26fcf05211137198bb91/activity-compose-1.11.0-samples-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_foundation_foundation_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_foundation_foundation_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_foundation_foundation_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_foundation_foundation_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.foundation:foundation-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/8f1517c70cc1d4949b1f879ebf0cfe16/transformed/foundation-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/8f1517c70cc1d4949b1f879ebf0cfe16/transformed/foundation-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/8f1517c70cc1d4949b1f879ebf0cfe16/transformed/foundation-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-android/1.7.0/73cc34ad1d4dc4fd23d3af615e71abf6880c7510/foundation-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-android/1.7.0/42cfb331db8ef737230de6164b63d52f9e4f282f/foundation-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_tooling_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-tooling-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/7682dd168e189a3f59b265c50e911e59/transformed/ui-tooling-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7682dd168e189a3f59b265c50e911e59/transformed/ui-tooling-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7682dd168e189a3f59b265c50e911e59/transformed/ui-tooling-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-android/1.7.0/46a940d645c056024e279b4de67f3c236e51cff1/ui-tooling-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-android/1.7.0/edb35c876385bca1ef6c96e22b84d52f459ae8/ui-tooling-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml b/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/21de4e903f690828697b5823ac7c56c6/transformed/versionedparcelable-1.1.1/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/21de4e903f690828697b5823ac7c56c6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.versionedparcelable/versionedparcelable/1.1.1/d9085927216387af679d18b6f472bc0fc5c7cc81/versionedparcelable-1.1.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_runtime_runtime_android_1_9_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_runtime_runtime_android_1_9_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_runtime_runtime_android_1_9_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_runtime_runtime_android_1_9_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.runtime:runtime-android:1.9.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/8ab962c3c19163ce5e74716573e2dd53/transformed/runtime/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/8ab962c3c19163ce5e74716573e2dd53/transformed/runtime/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-android/1.9.0/99e7777e8b9c87f97208bd2bb6e1b742c1ede1be/runtime-android-1.9.0-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-android/1.9.0/da6d01d667cf414414b81bccde6c86c15dc0702/runtime-1.9.0-samples-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_2_0_21.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_2_0_21.xml b/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_2_0_21.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_2_0_21.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.0.21" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.jetbrains.kotlin" artifactId="kotlin-stdlib" version="2.0.21" baseVersion="2.0.21" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.21/618b539767b4899b4660a83006e052b63f1db551/kotlin-stdlib-2.0.21.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.21/4789c95c3f2037f6689c0786baf1684275734ad3/kotlin-stdlib-2.0.21-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_android_1_9_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_android_1_9_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_android_1_9_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_android_1_9_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.runtime:runtime-saveable-android:1.9.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/b94ac531e57abd8e8e1db229c49f844c/transformed/runtime-saveable/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/b94ac531e57abd8e8e1db229c49f844c/transformed/runtime-saveable/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable-android/1.9.0/d7fe6f470c9110eb34d232623a77d021923de93b/runtime-saveable-android-1.9.0-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable-android/1.9.0/25057154a62bdfc38f76f025922eb60c146d5f8/runtime-saveable-1.9.0-samples-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_test_runner_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_test_runner_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_test_runner_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_test_runner_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.test:runner:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/b819df5ca97d7b9dc869883580d7d397/transformed/runner-1.7.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/b819df5ca97d7b9dc869883580d7d397/transformed/runner-1.7.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.7.0/98be1207f313bdf344a95ac60c576d578e36bc17/runner-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/modules/app/Tavoitesyke.app.androidTest.iml
+===================================================================
+diff --git a/.idea/modules/app/Tavoitesyke.app.androidTest.iml b/.idea/modules/app/Tavoitesyke.app.androidTest.iml
+deleted file mode 100644
+--- a/.idea/modules/app/Tavoitesyke.app.androidTest.iml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,127 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module external.linked.project.id=":app:androidTest" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+-  <component name="FacetManager">
+-    <facet external-system-id="GRADLE" type="android" name="Android">
+-      <configuration>
+-        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+-        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+-        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+-      </configuration>
+-    </facet>
+-    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+-      <configuration version="5" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false">
+-        <additionalVisibleModuleNames>:app:main</additionalVisibleModuleNames>
+-        <compilerSettings>
+-          <option name="additionalArguments" value="-Xallow-unstable-dependencies -Xuse-inline-scopes-numbers" />
+-        </compilerSettings>
+-        <compilerArguments>
+-          <flagArguments>
+-            <flagArg name="allowNoSourceFiles" arg="true" />
+-            <flagArg name="noReflect" arg="true" />
+-            <flagArg name="noStdlib" arg="true" />
+-          </flagArguments>
+-          <stringArguments>
+-            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debugAndroidTest" />
+-            <stringArg name="jvmTarget" arg="11" />
+-            <stringArg name="moduleName" arg="app_debugAndroidTest" />
+-            <stringArg name="apiVersion" arg="2.0" />
+-            <stringArg name="languageVersion" arg="2.0" />
+-          </stringArguments>
+-          <arrayArguments>
+-            <arrayArg name="pluginClasspaths">
+-              <args>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compose-compiler-plugin-embeddable/2.0.21/e14f003d962fb25693b461de59490c91072a7979/kotlin-compose-compiler-plugin-embeddable-2.0.21.jar</args>
+-            </arrayArg>
+-            <arrayArg name="pluginOptions">
+-              <args>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:sourceInformation=true</arg>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:generateFunctionKeyMetaClasses=false</arg>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:traceMarkersEnabled=true</arg>
+-              </args>
+-            </arrayArg>
+-          </arrayArguments>
+-        </compilerArguments>
+-      </configuration>
+-    </facet>
+-  </component>
+-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+-    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes" />
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugAndroidTest/out" />
+-    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+-    <content url="file://$MODULE_DIR$/../../../app/src/androidTest">
+-      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java" isTestSource="true" />
+-    </content>
+-    <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
+-    <orderEntry type="jdk" jdkName="Android API 36.0, extension level 17 Platform" jdkType="Android SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="module" module-name="Tavoitesyke.app.main" scope="TEST" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.ext:junit:1.3.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.services:storage:1.6.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.8.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.tracing:tracing:1.2.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-core:3.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-idling-resource:3.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:runner:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-test-junit4-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.11.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.17.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.17.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.4.1@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-viewtree:1.0.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-android:1.3.1@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-test-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.runtime:runtime-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.runtime:runtime-annotation-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.runtime:runtime-saveable-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-compose-android:1.3.1@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-geometry-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-graphics-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-unit-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-text-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-util-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-tooling-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-tooling-data-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-tooling-preview-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-test-manifest:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-compose:1.11.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.material3:material3-android:1.3.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.foundation:foundation-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.animation:animation-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.animation:animation-core-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.foundation:foundation-layout-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.material:material-icons-core-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.material:material-ripple-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-jvm:1.9.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.0.21" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:23.0.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.concurrent:concurrent-futures-ktx:1.2.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.concurrent:concurrent-futures:1.1.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:listenablefuture:1.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.8.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-jvm:2.9.4" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jspecify:jspecify:1.0.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.13.2" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.errorprone:error_prone_annotations:2.30.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection-jvm:1.5.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.7.3" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-test-jvm:1.8.1" level="project" />
+-  </component>
+-  <component name="TestModuleProperties" production-module="Tavoitesyke.app.main" />
+-</module>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_geometry_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-geometry-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/8c7bdd4461936838ad9fa7b622bdaa5b/transformed/ui-geometry-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/8c7bdd4461936838ad9fa7b622bdaa5b/transformed/ui-geometry-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/8c7bdd4461936838ad9fa7b622bdaa5b/transformed/ui-geometry-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-geometry-android/1.7.0/1dd31c0c8b7e1d3d94f2d3811e82ac96feca355/ui-geometry-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.foundation:foundation-layout-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/e4b848fa3d7841386d224373510ac653/transformed/foundation-layout-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/e4b848fa3d7841386d224373510ac653/transformed/foundation-layout-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/e4b848fa3d7841386d224373510ac653/transformed/foundation-layout-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-layout-android/1.7.0/c30fcc13ba6e6f10f524c3e5b3fee1f92ead2616/foundation-layout-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-layout-android/1.7.0/44cfc1dec7ea6d81698de868db64c5ea14390c1a/foundation-layout-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_savedstate_savedstate_compose_android_1_3_1_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_savedstate_savedstate_compose_android_1_3_1_aar.xml b/.idea/libraries/Gradle__androidx_savedstate_savedstate_compose_android_1_3_1_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_savedstate_savedstate_compose_android_1_3_1_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.savedstate:savedstate-compose-android:1.3.1@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/b651b9a13d6930c1eba485955ccb24f1/transformed/savedstate-compose-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/b651b9a13d6930c1eba485955ccb24f1/transformed/savedstate-compose-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/b651b9a13d6930c1eba485955ccb24f1/transformed/savedstate-compose-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-compose-android/1.3.1/bda74fbdc0e36728f69d223d5ee9c8716e75e8e9/savedstate-compose-1.3.1-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-compose-android/1.3.1/f359fa971adbf7a940b4d1222afaf46e9ebc914f/savedstate-compose-android-1.3.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_savedstate_savedstate_android_1_3_1_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_savedstate_savedstate_android_1_3_1_aar.xml b/.idea/libraries/Gradle__androidx_savedstate_savedstate_android_1_3_1_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_savedstate_savedstate_android_1_3_1_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.savedstate:savedstate-android:1.3.1@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/a8234474f45c3f7c1d48467ff7d91e18/transformed/savedstate-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/a8234474f45c3f7c1d48467ff7d91e18/transformed/savedstate-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/a8234474f45c3f7c1d48467ff7d91e18/transformed/savedstate-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-android/1.3.1/a5a55eb6311a88e40e1661eeb1e2ee1eec95926f/savedstate-1.3.1-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-android/1.3.1/19b94821934646bdbe37757ab7d326586bbf9923/savedstate-android-1.3.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_test_monitor_1_8_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_test_monitor_1_8_0_aar.xml b/.idea/libraries/Gradle__androidx_test_monitor_1_8_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_test_monitor_1_8_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.test:monitor:1.8.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/c0f2619f97a06255177e0e17847091e6/transformed/monitor-1.8.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/c0f2619f97a06255177e0e17847091e6/transformed/monitor-1.8.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.8.0/c901f94f9f176d3a922d88e1a24a3a16ac085ece/monitor-1.8.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_compose_android_2_9_4_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_compose_android_2_9_4_aar.xml b/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_compose_android_2_9_4_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_compose_android_2_9_4_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/440e5b75428b5d7bac06b2cb65015dfa/transformed/lifecycle-runtime-compose-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/440e5b75428b5d7bac06b2cb65015dfa/transformed/lifecycle-runtime-compose-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/440e5b75428b5d7bac06b2cb65015dfa/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-compose-android/2.9.4/b104517ec57e29ebaa03a02bfcd18616abbd9b93/lifecycle-runtime-compose-2.9.4-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-compose-android/2.9.4/3c7e5a624713441b30cb66c73f8c1b3ecc0f04b2/lifecycle-runtime-compose-android-2.9.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_text_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_text_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_text_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_text_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-text-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/7b022fe279aa0aef3068ac73483d4d64/transformed/ui-text-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7b022fe279aa0aef3068ac73483d4d64/transformed/ui-text-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7b022fe279aa0aef3068ac73483d4d64/transformed/ui-text-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-text-android/1.7.0/b38e54fbbffbdc56c8b48aa91eb9e7779bf7b8ca/ui-text-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-text-android/1.7.0/53466c33996a0f1aae5a4d92685cbdd9f0b9b937/ui-text-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_core_core_viewtree_1_0_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_core_core_viewtree_1_0_0_aar.xml b/.idea/libraries/Gradle__androidx_core_core_viewtree_1_0_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_core_core_viewtree_1_0_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.core:core-viewtree:1.0.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/4d69a4d2dba225737fd0e0bbf77c6c03/transformed/core-viewtree-1.0.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/4d69a4d2dba225737fd0e0bbf77c6c03/transformed/core-viewtree-1.0.0/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/4d69a4d2dba225737fd0e0bbf77c6c03/transformed/core-viewtree-1.0.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core-viewtree/1.0.0/479ee017137f7dbb52f0402e14b0f216e6b02bc6/core-viewtree-1.0.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_30_0.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_30_0.xml b/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_30_0.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_30_0.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: com.google.errorprone:error_prone_annotations:2.30.0" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="com.google.errorprone" artifactId="error_prone_annotations" version="2.30.0" baseVersion="2.30.0" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.30.0/ff171acb7fb9cbe2b9f50b391e1d52459d30ee62/error_prone_annotations-2.30.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.30.0/710584810d107ff037e68fd00512ddc12c8c0e1e/error_prone_annotations-2.30.0-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.30.0/5fd807da9cc296152cdc37b1692a6f7616d6b2c5/error_prone_annotations-2.30.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_material3_material3_android_1_3_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_material3_material3_android_1_3_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_material3_material3_android_1_3_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_material3_material3_android_1_3_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.material3:material3-android:1.3.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/90c1df8dbaee76ed4245be0e714da592/transformed/material3-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/90c1df8dbaee76ed4245be0e714da592/transformed/material3-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/90c1df8dbaee76ed4245be0e714da592/transformed/material3-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.0/785900bfcf93caf2c601e44d7194f12d13deddd7/material3-1.3.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.0/cb4d75d2f2dc983d04e19efd7cc027ebea4da935/material3-android-1.3.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_animation_animation_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_animation_animation_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_animation_animation_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_animation_animation_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.animation:animation-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/14f06f69421fc987ce51f172170c1ba2/transformed/animation-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/14f06f69421fc987ce51f172170c1ba2/transformed/animation-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/14f06f69421fc987ce51f172170c1ba2/transformed/animation-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation-android/1.7.0/46a940d645c056024e279b4de67f3c236e51cff1/animation-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation-android/1.7.0/4921b31d4d23f1b28be902b53ce082ca3ab869f2/animation-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_test_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_test_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_test_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_test_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-test-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/b09fe171fac9bd33eb725aeb89c5948d/transformed/ui-test-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/b09fe171fac9bd33eb725aeb89c5948d/transformed/ui-test-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/b09fe171fac9bd33eb725aeb89c5948d/transformed/ui-test-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test-android/1.7.0/ec98d8dbf4ae795292324fa14c21a1bea93e942/ui-test-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test-android/1.7.0/e161c05ed0f3d7da7706cc9f41dac272a423e9fb/ui-test-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-test-junit4-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/9947c3ec59b077ae4886d3c361b8a9a8/transformed/ui-test-junit4-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/9947c3ec59b077ae4886d3c361b8a9a8/transformed/ui-test-junit4-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/9947c3ec59b077ae4886d3c361b8a9a8/transformed/ui-test-junit4-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test-junit4-android/1.7.0/1d5b2336ba824d4fc68ea12e83d4edc04fc8a843/ui-test-junit4-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_runtime_runtime_annotation_android_1_9_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_runtime_runtime_annotation_android_1_9_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_runtime_runtime_annotation_android_1_9_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_runtime_runtime_annotation_android_1_9_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.runtime:runtime-annotation-android:1.9.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/bc188876004b13301ae076ec06297278/transformed/runtime-annotation/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/bc188876004b13301ae076ec06297278/transformed/runtime-annotation/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-annotation-android/1.9.0/93909912f3419b0d21e3f17c8be94a15885d59c2/runtime-annotation-android-1.9.0-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-annotation-android/1.9.0/7f2edc491e066e09b04bcb56725b8eacb21ed045/runtime-annotation-1.9.0-samples-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_8_1.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_8_1.xml b/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_8_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_8_1.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,10 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-coroutines-android" version="1.8.1" baseVersion="1.8.1" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.8.1/73e2acdd18df99dd4849d99f188dff529fc0afe0/kotlinx-coroutines-android-1.8.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES />
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_test_manifest_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_test_manifest_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_test_manifest_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_test_manifest_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-test-manifest:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/e045ca48c5d053e289c0caee12d2e868/transformed/ui-test-manifest-1.7.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/e045ca48c5d053e289c0caee12d2e868/transformed/ui-test-manifest-1.7.0/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/e045ca48c5d053e289c0caee12d2e868/transformed/ui-test-manifest-1.7.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test-manifest/1.7.0/2ad14aed781c4a73ed4dbb421966d408a0a06686/ui-test-manifest-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-tooling-data-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/d7e9081666b62ec2e005d64f4092fd54/transformed/ui-tooling-data-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/d7e9081666b62ec2e005d64f4092fd54/transformed/ui-tooling-data-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/d7e9081666b62ec2e005d64f4092fd54/transformed/ui-tooling-data-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-data-android/1.7.0/106401abfb0f95e83de0d129bc8443122809bacd/ui-tooling-data-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_unit_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-unit-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/96e2bfcc2bf34362ff41fc5c30e3138d/transformed/ui-unit-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/96e2bfcc2bf34362ff41fc5c30e3138d/transformed/ui-unit-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/96e2bfcc2bf34362ff41fc5c30e3138d/transformed/ui-unit-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit-android/1.7.0/5e532d468530e8a2839b3b1493b5f7c8ecd258df/ui-unit-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit-android/1.7.0/91035765b70f44a73b455a84ad6e7c1c50e0058d/ui-unit-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_jvm_2_9_4.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_jvm_2_9_4.xml b/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_jvm_2_9_4.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_jvm_2_9_4.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.lifecycle:lifecycle-common-jvm:2.9.4" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="androidx.lifecycle" artifactId="lifecycle-common-jvm" version="2.9.4" baseVersion="2.9.4" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-jvm/2.9.4/ab739bccdb3541983385af169565c7c035d897e7/lifecycle-common-jvm-2.9.4.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-jvm/2.9.4/3f2e64896f4060014ce84c99c8c9b1cb3ebcdb3f/lifecycle-common-jvm-2.9.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_android_2_9_4_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_android_2_9_4_aar.xml b/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_android_2_9_4_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_android_2_9_4_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/03c7ddadc439c2c37470564e2da30845/transformed/lifecycle-runtime-ktx/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/03c7ddadc439c2c37470564e2da30845/transformed/lifecycle-runtime-ktx/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-ktx-android/2.9.4/17e8e0f2128f99c4c3543e2c1529d3c75e94eb13/lifecycle-runtime-ktx-android-2.9.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_test_core_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_test_core_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_test_core_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_test_core_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.test:core:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/7552ba910c7c43996dd76bffde74b8dc/transformed/core-1.7.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7552ba910c7c43996dd76bffde74b8dc/transformed/core-1.7.0/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7552ba910c7c43996dd76bffde74b8dc/transformed/core-1.7.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.7.0/19265db3d61aefc72269a069817d44f818ee9ca/core-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/modules/app/Tavoitesyke.app.main.iml
+===================================================================
+diff --git a/.idea/modules/app/Tavoitesyke.app.main.iml b/.idea/modules/app/Tavoitesyke.app.main.iml
+deleted file mode 100644
+--- a/.idea/modules/app/Tavoitesyke.app.main.iml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,108 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module external.linked.project.id=":app:main" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+-  <component name="FacetManager">
+-    <facet external-system-id="GRADLE" type="android" name="Android">
+-      <configuration>
+-        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+-        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+-        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+-      </configuration>
+-    </facet>
+-    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+-      <configuration version="5" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false">
+-        <compilerSettings>
+-          <option name="additionalArguments" value="-Xallow-unstable-dependencies -Xuse-inline-scopes-numbers" />
+-        </compilerSettings>
+-        <compilerArguments>
+-          <flagArguments>
+-            <flagArg name="allowNoSourceFiles" arg="true" />
+-            <flagArg name="noReflect" arg="true" />
+-            <flagArg name="noStdlib" arg="true" />
+-          </flagArguments>
+-          <stringArguments>
+-            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+-            <stringArg name="jvmTarget" arg="11" />
+-            <stringArg name="moduleName" arg="app_debug" />
+-            <stringArg name="apiVersion" arg="2.0" />
+-            <stringArg name="languageVersion" arg="2.0" />
+-          </stringArguments>
+-          <arrayArguments>
+-            <arrayArg name="pluginClasspaths">
+-              <args>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compose-compiler-plugin-embeddable/2.0.21/e14f003d962fb25693b461de59490c91072a7979/kotlin-compose-compiler-plugin-embeddable-2.0.21.jar</args>
+-            </arrayArg>
+-            <arrayArg name="pluginOptions">
+-              <args>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:sourceInformation=true</arg>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:generateFunctionKeyMetaClasses=false</arg>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:traceMarkersEnabled=true</arg>
+-              </args>
+-            </arrayArg>
+-          </arrayArguments>
+-        </compilerArguments>
+-      </configuration>
+-    </facet>
+-  </component>
+-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+-    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" />
+-    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug">
+-      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" type="java-resource" />
+-    </content>
+-    <content url="file://$MODULE_DIR$/../../../app/src/debug" />
+-    <content url="file://$MODULE_DIR$/../../../app/src/main">
+-      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/java" isTestSource="false" />
+-      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
+-    </content>
+-    <orderEntry type="jdk" jdkName="Android API 36.0, extension level 17 Platform" jdkType="Android SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-tooling-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.runtime:runtime-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.4.1@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.runtime:runtime-annotation-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.runtime:runtime-saveable-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate-compose-android:1.3.1@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate-android:1.3.1@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-geometry-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-graphics-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-unit-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-text-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-util-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-tooling-data-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-tooling-preview-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-test-manifest:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.11.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.core:core-ktx:1.17.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.core:core:1.17.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.core:core-viewtree:1.0.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.9.4@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.activity:activity-compose:1.11.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.material3:material3-android:1.3.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.foundation:foundation-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.animation:animation-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.animation:animation-core-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.foundation:foundation-layout-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.material:material-icons-core-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.compose.material:material-ripple-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.0.21" level="project" />
+-    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:23.0.0" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-jvm:1.9.1" level="project" />
+-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1" level="project" />
+-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.8.1" level="project" />
+-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.7.3" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-jvm:2.9.4" level="project" />
+-    <orderEntry type="library" name="Gradle: org.jspecify:jspecify:1.0.0" level="project" />
+-    <orderEntry type="library" name="Gradle: androidx.collection:collection-jvm:1.5.0" level="project" />
+-    <orderEntry type="library" name="Gradle: com.google.guava:listenablefuture:1.0" level="project" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/modules/app/Tavoitesyke.app.iml
+===================================================================
+diff --git a/.idea/modules/app/Tavoitesyke.app.iml b/.idea/modules/app/Tavoitesyke.app.iml
+deleted file mode 100644
+--- a/.idea/modules/app/Tavoitesyke.app.iml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,29 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Tavoitesyke" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+-  <component name="FacetManager">
+-    <facet external-system-id="GRADLE" type="android-gradle" name="Android-Gradle">
+-      <configuration>
+-        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+-        <option name="LAST_KNOWN_AGP_VERSION" value="8.13.1" />
+-      </configuration>
+-    </facet>
+-    <facet external-system-id="GRADLE" type="android" name="Android">
+-      <configuration>
+-        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+-        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+-        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+-      </configuration>
+-    </facet>
+-  </component>
+-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$/../../../app">
+-      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+-      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+-    </content>
+-    <orderEntry type="jdk" jdkName="Android API 36.0, extension level 17 Platform" jdkType="Android SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/modules/Tavoitesyke.iml
+===================================================================
+diff --git a/.idea/modules/Tavoitesyke.iml b/.idea/modules/Tavoitesyke.iml
+deleted file mode 100644
+--- a/.idea/modules/Tavoitesyke.iml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module external.linked.project.id="Tavoitesyke" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$/../..">
+-      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
+-      <excludeFolder url="file://$MODULE_DIR$/../../build" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_9_4_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_9_4_aar.xml b/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_9_4_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_9_4_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.9.4@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/decd3681c59993e9fb5efffb30a7a3b1/transformed/lifecycle-livedata-core-2.9.4/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/decd3681c59993e9fb5efffb30a7a3b1/transformed/lifecycle-livedata-core-2.9.4/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/decd3681c59993e9fb5efffb30a7a3b1/transformed/lifecycle-livedata-core-2.9.4/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.9.4/3fefff17864a312e533e58e161fe36f2b0138a43/lifecycle-livedata-core-2.9.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_collection_collection_jvm_1_5_0.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_collection_collection_jvm_1_5_0.xml b/.idea/libraries/Gradle__androidx_collection_collection_jvm_1_5_0.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_collection_collection_jvm_1_5_0.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.collection:collection-jvm:1.5.0" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="androidx.collection" artifactId="collection-jvm" version="1.5.0" baseVersion="1.5.0" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-jvm/1.5.0/7ba2c69414d46ebc2dd76598bdd0a75c54281a57/collection-jvm-1.5.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-jvm/1.5.0/cce267e9a52246430f814d9eca61bb4248c9b4bb/collection-jvm-1.5.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_core_jvm_1_7_3.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_core_jvm_1_7_3.xml b/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_core_jvm_1_7_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_core_jvm_1_7_3.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.7.3" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-serialization-core-jvm" version="1.7.3" baseVersion="1.7.3" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-jvm/1.7.3/1f226780b845ff9206474c05159245d861556249/kotlinx-serialization-core-jvm-1.7.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-jvm/1.7.3/d98d244410396120780381b8bf6cfc559625417e/kotlinx-serialization-core-jvm-1.7.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_concurrent_concurrent_futures_ktx_1_2_0.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_ktx_1_2_0.xml b/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_ktx_1_2_0.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_ktx_1_2_0.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.concurrent:concurrent-futures-ktx:1.2.0" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="androidx.concurrent" artifactId="concurrent-futures-ktx" version="1.2.0" baseVersion="1.2.0" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures-ktx/1.2.0/13b49fdb58c74bdfb12eb131b5e22d6d09683e30/concurrent-futures-ktx-1.2.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures-ktx/1.2.0/34891c54204e087f47c3009c15b688deb81dbdc/concurrent-futures-ktx-1.2.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_7_0_aar.xml b/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.test.espresso:espresso-core:3.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/65c26196c167885e5d9a9bf30d7599c8/transformed/espresso-core-3.7.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/65c26196c167885e5d9a9bf30d7599c8/transformed/espresso-core-3.7.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.7.0/8954e2704fa0d63081a6f95e8644472667567fed/espresso-core-3.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_android_2_9_4_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_android_2_9_4_aar.xml b/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_android_2_9_4_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_android_2_9_4_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.9.4@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/deba778a683cf1ac1023f0a945859147/transformed/lifecycle-viewmodel-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/deba778a683cf1ac1023f0a945859147/transformed/lifecycle-viewmodel-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/deba778a683cf1ac1023f0a945859147/transformed/lifecycle-viewmodel-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-android/2.9.4/30e204279e6cc8023e11e95240264ffca9a7cede/lifecycle-viewmodel-android-2.9.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,17 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-android:1.7.0@aar" external-system-id="GRADLE">
+-    <ANNOTATIONS>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/b058f405a7c6d90590c20a625ce3cb5b/transformed/ui-release/annotations.zip!/" />
+-    </ANNOTATIONS>
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/b058f405a7c6d90590c20a625ce3cb5b/transformed/ui-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/b058f405a7c6d90590c20a625ce3cb5b/transformed/ui-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/b058f405a7c6d90590c20a625ce3cb5b/transformed/ui-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-android/1.7.0/28bcf1977e634610892bc9334bcef44c0d644099/ui-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-android/1.7.0/db103590e594bd9f54209de743519cc2dd7530c7/ui-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-tooling-preview-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/040262113e04031b88de34c013f8d436/transformed/ui-tooling-preview-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/040262113e04031b88de34c013f8d436/transformed/ui-tooling-preview-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/040262113e04031b88de34c013f8d436/transformed/ui-tooling-preview-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-preview-android/1.7.0/4e724872e09ef641dd678dcf8bf607f556a76d0c/ui-tooling-preview-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_core_core_ktx_1_17_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_core_core_ktx_1_17_0_aar.xml b/.idea/libraries/Gradle__androidx_core_core_ktx_1_17_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_core_core_ktx_1_17_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.core:core-ktx:1.17.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/42ea9fd256dc28ace034f2a05c1bc3ae/transformed/core-ktx-1.17.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/42ea9fd256dc28ace034f2a05c1bc3ae/transformed/core-ktx-1.17.0/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/42ea9fd256dc28ace034f2a05c1bc3ae/transformed/core-ktx-1.17.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.17.0/27d867966b96683f0d9e31f66ce322f2631b77f5/core-ktx-1.17.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/modules/app/Tavoitesyke.app.unitTest.iml
+===================================================================
+diff --git a/.idea/modules/app/Tavoitesyke.app.unitTest.iml b/.idea/modules/app/Tavoitesyke.app.unitTest.iml
+deleted file mode 100644
+--- a/.idea/modules/app/Tavoitesyke.app.unitTest.iml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,109 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module external.linked.project.id=":app:unitTest" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+-  <component name="FacetManager">
+-    <facet external-system-id="GRADLE" type="android" name="Android">
+-      <configuration>
+-        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+-        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+-        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+-      </configuration>
+-    </facet>
+-    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+-      <configuration version="5" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false">
+-        <additionalVisibleModuleNames>:app:main</additionalVisibleModuleNames>
+-        <compilerSettings>
+-          <option name="additionalArguments" value="-Xallow-unstable-dependencies" />
+-        </compilerSettings>
+-        <compilerArguments>
+-          <flagArguments>
+-            <flagArg name="allowNoSourceFiles" arg="true" />
+-            <flagArg name="noReflect" arg="true" />
+-            <flagArg name="noStdlib" arg="true" />
+-          </flagArguments>
+-          <stringArguments>
+-            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debugUnitTest" />
+-            <stringArg name="jvmTarget" arg="11" />
+-            <stringArg name="moduleName" arg="app_debugUnitTest" />
+-            <stringArg name="apiVersion" arg="2.0" />
+-            <stringArg name="languageVersion" arg="2.0" />
+-          </stringArguments>
+-          <arrayArguments>
+-            <arrayArg name="pluginClasspaths">
+-              <args>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compose-compiler-plugin-embeddable/2.0.21/e14f003d962fb25693b461de59490c91072a7979/kotlin-compose-compiler-plugin-embeddable-2.0.21.jar</args>
+-            </arrayArg>
+-            <arrayArg name="pluginOptions">
+-              <args>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:sourceInformation=true</arg>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:generateFunctionKeyMetaClasses=false</arg>
+-                <arg>plugin:androidx.compose.compiler.plugins.kotlin:traceMarkersEnabled=true</arg>
+-              </args>
+-            </arrayArg>
+-          </arrayArguments>
+-        </compilerArguments>
+-      </configuration>
+-    </facet>
+-  </component>
+-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+-    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugUnitTest/out" />
+-    <content url="file://$MODULE_DIR$/../../../app/src/test">
+-      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/test/java" isTestSource="true" />
+-    </content>
+-    <content url="file://$MODULE_DIR$/../../../app/src/testDebug" />
+-    <orderEntry type="jdk" jdkName="Android API 36.0, extension level 17 Platform" jdkType="Android SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="module" module-name="Tavoitesyke.app.main" scope="TEST" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-tooling-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.runtime:runtime-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.4.1@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.runtime:runtime-annotation-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.runtime:runtime-saveable-android:1.9.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-compose-android:1.3.1@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-android:1.3.1@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-geometry-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-graphics-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-unit-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-text-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-util-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-tooling-data-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-tooling-preview-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.ui:ui-test-manifest:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.11.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.17.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.17.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-viewtree:1.0.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.9.4@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-compose:1.11.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.material3:material3-android:1.3.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.foundation:foundation-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.animation:animation-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.animation:animation-core-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.foundation:foundation-layout-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.material:material-icons-core-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.compose.material:material-ripple-android:1.7.0@aar" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.0.21" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:23.0.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-jvm:1.9.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.8.1" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.7.3" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-jvm:2.9.4" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.jspecify:jspecify:1.0.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection-jvm:1.5.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:listenablefuture:1.0" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.13.2" level="project" />
+-    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+-  </component>
+-  <component name="TestModuleProperties" production-module="Tavoitesyke.app.main" />
+-</module>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_tracing_tracing_1_2_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_tracing_tracing_1_2_0_aar.xml b/.idea/libraries/Gradle__androidx_tracing_tracing_1_2_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_tracing_tracing_1_2_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.tracing:tracing:1.2.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/28e49c4a11aea2c17eaff090a895208e/transformed/tracing-1.2.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/28e49c4a11aea2c17eaff090a895208e/transformed/tracing-1.2.0/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/28e49c4a11aea2c17eaff090a895208e/transformed/tracing-1.2.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.tracing/tracing/1.2.0/7a8da514613e34b2f3cc6f1d9dc805295d9838a7/tracing-1.2.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_graphics_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-graphics-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/5c04d762f90f9e5c3fd127ce4ad3f019/transformed/ui-graphics-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/5c04d762f90f9e5c3fd127ce4ad3f019/transformed/ui-graphics-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/5c04d762f90f9e5c3fd127ce4ad3f019/transformed/ui-graphics-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-graphics-android/1.7.0/ddfeff6f366b2b511196cec6c71f3c0003b795db/ui-graphics-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-graphics-android/1.7.0/32d355271928d0d3ee75de7d9a168a4985f113ba/ui-graphics-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_1_0.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_1_0.xml b/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_1_0.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_1_0.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.concurrent:concurrent-futures:1.1.0" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="androidx.concurrent" artifactId="concurrent-futures" version="1.1.0" baseVersion="1.1.0" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.1.0/50b7fb98350d5f42a4e49704b03278542293ba48/concurrent-futures-1.1.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.1.0/a27842adf6c42f3d80893bd46e1de4ac024218e7/concurrent-futures-1.1.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_activity_activity_1_11_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_activity_activity_1_11_0_aar.xml b/.idea/libraries/Gradle__androidx_activity_activity_1_11_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_activity_activity_1_11_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.activity:activity:1.11.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/0affcd51b5656ceac9213e3f6fff94bf/transformed/activity-1.11.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/0affcd51b5656ceac9213e3f6fff94bf/transformed/activity-1.11.0/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/0affcd51b5656ceac9213e3f6fff94bf/transformed/activity-1.11.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.11.0/c9fc7213cc8c55a380da385f4be2d2431617ac0a/activity-1.11.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_animation_animation_core_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_animation_animation_core_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_animation_animation_core_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_animation_animation_core_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.animation:animation-core-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/a23f28781119b9fa8b716e18196e02c3/transformed/animation-core-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/a23f28781119b9fa8b716e18196e02c3/transformed/animation-core-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/a23f28781119b9fa8b716e18196e02c3/transformed/animation-core-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation-core-android/1.7.0/5f4e9009e638c425f3613758eed8fed58bb44a23/animation-core-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation-core-android/1.7.0/f82d2b4b86ee4b52eef13238aba9b76839d273ff/animation-core-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__javax_inject_javax_inject_1.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml b/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: javax.inject:javax.inject:1" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="javax.inject" artifactId="javax.inject" version="1" baseVersion="1" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/70ec961c25111ed9015d1af77772d96383c2d238/javax.inject-1-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml b/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.hamcrest:hamcrest-core:1.3" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.hamcrest" artifactId="hamcrest-core" version="1.3" baseVersion="1.3" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/ad09811315f1d4f5756986575b0ea16b99cd686f/hamcrest-core-1.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_4_1_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_4_1_aar.xml b/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_4_1_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_4_1_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.annotation:annotation-experimental:1.4.1@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/c4216bbdc708c71415fd3eea5cd91294/transformed/annotation-experimental-1.4.1/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/c4216bbdc708c71415fd3eea5cd91294/transformed/annotation-experimental-1.4.1/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/c4216bbdc708c71415fd3eea5cd91294/transformed/annotation-experimental-1.4.1/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-experimental/1.4.1/4dc003cb3c5ff16a1c3d09f3d1f7ae7b2d14a9c4/annotation-experimental-1.4.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_annotation_annotation_jvm_1_9_1.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_annotation_annotation_jvm_1_9_1.xml b/.idea/libraries/Gradle__androidx_annotation_annotation_jvm_1_9_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_annotation_annotation_jvm_1_9_1.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.annotation:annotation-jvm:1.9.1" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="androidx.annotation" artifactId="annotation-jvm" version="1.9.1" baseVersion="1.9.1" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.9.1/b17951747e38bf3986a24431b9ba0d039958aa5f/annotation-jvm-1.9.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.9.1/865f245e3c1d595a6b9ae80e622a94907abc58d5/annotation-jvm-1.9.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_core_core_1_17_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_core_core_1_17_0_aar.xml b/.idea/libraries/Gradle__androidx_core_core_1_17_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_core_core_1_17_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,17 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.core:core:1.17.0@aar" external-system-id="GRADLE">
+-    <ANNOTATIONS>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/e4d9df7ebe2f42b882fdf9fd4156e219/transformed/core-1.17.0/annotations.zip!/" />
+-    </ANNOTATIONS>
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/e4d9df7ebe2f42b882fdf9fd4156e219/transformed/core-1.17.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/e4d9df7ebe2f42b882fdf9fd4156e219/transformed/core-1.17.0/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/e4d9df7ebe2f42b882fdf9fd4156e219/transformed/core-1.17.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.17.0/3f3bdf4e06b0624824a66cd420fc0ec50dbc6736/core-1.17.0-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.17.0/26479f91ea0d83ae369a781b380b9b9a54551741/core-1.17.0-samples-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_7_0_aar.xml b/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.test.espresso:espresso-idling-resource:3.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/6b88ea037b852dfc6c73ae842b07a3cd/transformed/espresso-idling-resource-3.7.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/6b88ea037b852dfc6c73ae842b07a3cd/transformed/espresso-idling-resource-3.7.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.7.0/77a86d3b8d6399211eaa422174f17011978567bb/espresso-idling-resource-3.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_test_services_storage_1_6_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_test_services_storage_1_6_0_aar.xml b/.idea/libraries/Gradle__androidx_test_services_storage_1_6_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_test_services_storage_1_6_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.test.services:storage:1.6.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/a34cc74d4cb8de2a0289ff4badbd5303/transformed/storage-1.6.0/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/a34cc74d4cb8de2a0289ff4badbd5303/transformed/storage-1.6.0/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.6.0/e79382cf7d1d44ef6b4b32533d10379ed3cbc656/storage-1.6.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tavoitesyke.iml" filepath="$PROJECT_DIR$/.idea/modules/Tavoitesyke.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.androidTest.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.main.iml" />
+-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.unitTest.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml b/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: com.google.code.findbugs:jsr305:3.0.2" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="com.google.code.findbugs" artifactId="jsr305" version="3.0.2" baseVersion="3.0.2" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/7cb5b4e91eb0741882c8fefb2fd0338eff9857c/jsr305-3.0.2-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_8_1.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_8_1.xml b/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_8_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_8_1.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.8.1" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-coroutines-core-jvm" version="1.8.1" baseVersion="1.8.1" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.8.1/bb0e192bd7c2b6b8217440d36e9758e377e450/kotlinx-coroutines-core-jvm-1.8.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.8.1/de8e46286026b0249acd5db040effcae1188c6e9/kotlinx-coroutines-core-jvm-1.8.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__junit_junit_4_13_2.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__junit_junit_4_13_2.xml b/.idea/libraries/Gradle__junit_junit_4_13_2.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__junit_junit_4_13_2.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: junit:junit:4.13.2" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="junit" artifactId="junit" version="4.13.2" baseVersion="4.13.2" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/f2f3f384dacd2ade2ddf7aa7e0f4360dfee38672/junit-4.13.2-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/33987872a811fe4d4001ed494b07854822257f42/junit-4.13.2-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_material_material_icons_core_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.material:material-icons-core-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/d38b02bf51b615c9db30bf51789e2031/transformed/material-icons-core-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/d38b02bf51b615c9db30bf51789e2031/transformed/material-icons-core-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/d38b02bf51b615c9db30bf51789e2031/transformed/material-icons-core-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material/material-icons-core-android/1.7.0/578ff7394b718fb34c333c24bcfade35ccba41c5/material-icons-core-1.7.0-samples-sources.jar!/" />
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material/material-icons-core-android/1.7.0/e518df0d8a19c3833f72a24ff667853015e340fd/material-icons-core-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_ui_ui_util_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_ui_ui_util_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_ui_ui_util_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_ui_ui_util_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.ui:ui-util-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/6d6bd298771515dc31f031ffd6433476/transformed/ui-util-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/6d6bd298771515dc31f031ffd6433476/transformed/ui-util-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/6d6bd298771515dc31f031ffd6433476/transformed/ui-util-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-util-android/1.7.0/8533d5b40174e5cbd6b70ad99710429e7eadbb64/ui-util-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_compose_material_material_ripple_android_1_7_0_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_compose_material_material_ripple_android_1_7_0_aar.xml b/.idea/libraries/Gradle__androidx_compose_material_material_ripple_android_1_7_0_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_compose_material_material_ripple_android_1_7_0_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.compose.material:material-ripple-android:1.7.0@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/a04924934bef4133b7b6f25daca187df/transformed/material-ripple-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/a04924934bef4133b7b6f25daca187df/transformed/material-ripple-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/a04924934bef4133b7b6f25daca187df/transformed/material-ripple-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material/material-ripple-android/1.7.0/7850da88009864d77e29340230e91bcb270656d9/material-ripple-android-1.7.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_arch_core_core_common_2_2_0.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_arch_core_core_common_2_2_0.xml b/.idea/libraries/Gradle__androidx_arch_core_core_common_2_2_0.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_arch_core_core_common_2_2_0.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.arch.core:core-common:2.2.0" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="androidx.arch.core" artifactId="core-common" version="2.2.0" baseVersion="2.2.0" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3/core-common-2.2.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/f3ac1460fc6844d5441595a34591af7fc04fd2e5/core-common-2.2.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml b/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.hamcrest:hamcrest-library:1.3" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.hamcrest" artifactId="hamcrest-library" version="1.3" baseVersion="1.3" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4324046c5f99f3dc91b5370899fa3ae65fd137d2/hamcrest-library-1.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/47a7ee46628ab7133129cd7cef1e92657bc275e/hamcrest-library-1.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_android_2_9_4_aar.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_android_2_9_4_aar.xml b/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_android_2_9_4_aar.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_android_2_9_4_aar.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-android:2.9.4@aar" external-system-id="GRADLE">
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/8.13/transforms/7688b7ba1bd567c5e7bb5ca8838c64f6/transformed/lifecycle-runtime-release/jars/classes.jar!/" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7688b7ba1bd567c5e7bb5ca8838c64f6/transformed/lifecycle-runtime-release/res" />
+-      <root url="file://$USER_HOME$/.gradle/caches/8.13/transforms/7688b7ba1bd567c5e7bb5ca8838c64f6/transformed/lifecycle-runtime-release/AndroidManifest.xml" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-android/2.9.4/124547d84780107b6bd19705570767d4040bec02/lifecycle-runtime-android-2.9.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_jspecify_jspecify_1_0_0.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_jspecify_jspecify_1_0_0.xml b/.idea/libraries/Gradle__org_jspecify_jspecify_1_0_0.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_jspecify_jspecify_1_0_0.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.jspecify:jspecify:1.0.0" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.jspecify" artifactId="jspecify" version="1.0.0" baseVersion="1.0.0" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/a80803f1ac52db38cf403634542745af80b8868a/jspecify-1.0.0-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/f1a67bbcf2f9f282baf3821046563983f16ca9b2/jspecify-1.0.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm_1_8_1.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm_1_8_1.xml b/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm_1_8_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm_1_8_1.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,12 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-test-jvm:1.8.1" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-coroutines-test-jvm" version="1.8.1" baseVersion="1.8.1" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test-jvm/1.8.1/3265a39680512dc93d5b39716d9aaff025833218/kotlinx-coroutines-test-jvm-1.8.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC />
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test-jvm/1.8.1/13282dcee28e45f46d7453bf0405eda66b9f19a3/kotlinx-coroutines-test-jvm-1.8.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Gradle__org_jetbrains_annotations_23_0_0.xml
+===================================================================
+diff --git a/.idea/libraries/Gradle__org_jetbrains_annotations_23_0_0.xml b/.idea/libraries/Gradle__org_jetbrains_annotations_23_0_0.xml
+deleted file mode 100644
+--- a/.idea/libraries/Gradle__org_jetbrains_annotations_23_0_0.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ /dev/null	(revision cee421fc979518efb936da74557f79a3495a00d7)
+@@ -1,14 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Gradle: org.jetbrains:annotations:23.0.0" type="java-imported" external-system-id="GRADLE">
+-    <properties groupId="org.jetbrains" artifactId="annotations" version="23.0.0" baseVersion="23.0.0" />
+-    <CLASSES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/41442a550d78cb59a601c1d38603f6ab5497f93c/annotations-23.0.0-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/ca5088d615accaabd2aa956b10b236a4e75cfccb/annotations-23.0.0-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"NONE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e339a99b-10b2-4ea7-bc92-cd3b08c260f7\" name=\"Changes\" comment=\"Tehtävän palautus\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ClangdSettings\">\r\n    <option name=\"formatViaClangd\" value=\"false\" />\r\n  </component>\r\n  <component name=\"ExecutionTargetManager\" SELECTED_TARGET=\"device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\\Users\\n-asu\\.android\\avd\\Medium_Phone.avd)]\" />\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand />\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"customColor\": \"\",\r\n  \"associatedIndex\": 0\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"35f8Wi71mdZbGJZDEaKz9510dQK\" />\r\n  <component name=\"ProjectReloadState\">\r\n    <option name=\"STATE\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"Android App.app.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.cidr.known.project.marker\": \"true\",\r\n    \"RunOnceActivity.readMode.enableVisualFormatting\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"cf.first.check.clang-format\": \"false\",\r\n    \"cidr.known.project.marker\": \"true\",\r\n    \"git-widget-placeholder\": \"main\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"app\" type=\"AndroidRunConfigurationType\" factoryName=\"Android App\" activateToolWindowBeforeRun=\"false\">\r\n      <module name=\"Tavoitesyke.app\" />\r\n      <option name=\"ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION\" value=\"1\" />\r\n      <option name=\"DEPLOY\" value=\"true\" />\r\n      <option name=\"DEPLOY_APK_FROM_BUNDLE\" value=\"false\" />\r\n      <option name=\"DEPLOY_AS_INSTANT\" value=\"false\" />\r\n      <option name=\"ARTIFACT_NAME\" value=\"\" />\r\n      <option name=\"PM_INSTALL_OPTIONS\" value=\"\" />\r\n      <option name=\"ALL_USERS\" value=\"false\" />\r\n      <option name=\"ALWAYS_INSTALL_WITH_PM\" value=\"false\" />\r\n      <option name=\"ALLOW_ASSUME_VERIFIED\" value=\"false\" />\r\n      <option name=\"CLEAR_APP_STORAGE\" value=\"false\" />\r\n      <option name=\"DYNAMIC_FEATURES_DISABLED_LIST\" value=\"\" />\r\n      <option name=\"ACTIVITY_EXTRA_FLAGS\" value=\"\" />\r\n      <option name=\"MODE\" value=\"default_activity\" />\r\n      <option name=\"RESTORE_ENABLED\" value=\"false\" />\r\n      <option name=\"RESTORE_FILE\" value=\"\" />\r\n      <option name=\"RESTORE_FRESH_INSTALL_ONLY\" value=\"false\" />\r\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\r\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\r\n      <option name=\"TARGET_SELECTION_MODE\" value=\"DEVICE_AND_SNAPSHOT_COMBO_BOX\" />\r\n      <option name=\"SELECTED_CLOUD_MATRIX_CONFIGURATION_ID\" value=\"-1\" />\r\n      <option name=\"SELECTED_CLOUD_MATRIX_PROJECT_ID\" value=\"\" />\r\n      <option name=\"DEBUGGER_TYPE\" value=\"Auto\" />\r\n      <Auto>\r\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\r\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\r\n        <option name=\"WORKING_DIR\" value=\"\" />\r\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\r\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\r\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\r\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\r\n      </Auto>\r\n      <Hybrid>\r\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\r\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\r\n        <option name=\"WORKING_DIR\" value=\"\" />\r\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\r\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\r\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\r\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\r\n      </Hybrid>\r\n      <Java>\r\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\r\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\r\n      </Java>\r\n      <Native>\r\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\r\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\r\n        <option name=\"WORKING_DIR\" value=\"\" />\r\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\r\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\r\n        <option name=\"ATTACH_ON_WAIT_FOR_DEBUGGER\" value=\"false\" />\r\n        <option name=\"DEBUG_SANDBOX_SDK\" value=\"false\" />\r\n      </Native>\r\n      <Profilers>\r\n        <option name=\"ADVANCED_PROFILING_ENABLED\" value=\"false\" />\r\n        <option name=\"STARTUP_PROFILING_ENABLED\" value=\"false\" />\r\n        <option name=\"STARTUP_CPU_PROFILING_ENABLED\" value=\"false\" />\r\n        <option name=\"STARTUP_CPU_PROFILING_CONFIGURATION_NAME\" value=\"Java/Kotlin Method Sample (legacy)\" />\r\n        <option name=\"STARTUP_NATIVE_MEMORY_PROFILING_ENABLED\" value=\"false\" />\r\n        <option name=\"NATIVE_MEMORY_SAMPLE_RATE_BYTES\" value=\"2048\" />\r\n      </Profilers>\r\n      <option name=\"DEEP_LINK\" value=\"\" />\r\n      <option name=\"ACTIVITY\" value=\"\" />\r\n      <option name=\"ACTIVITY_CLASS\" value=\"\" />\r\n      <option name=\"SEARCH_ACTIVITY_IN_GLOBAL_SCOPE\" value=\"false\" />\r\n      <option name=\"SKIP_ACTIVITY_VALIDATION\" value=\"false\" />\r\n      <method v=\"2\">\r\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e339a99b-10b2-4ea7-bc92-cd3b08c260f7\" name=\"Changes\" comment=\"\" />\r\n      <created>1763489798805</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1763489798805</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00001\" summary=\"Tehtävän palautus\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763498165195</created>\r\n      <option name=\"number\" value=\"LOCAL−00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\r\n      <updated>1763498165195</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00002\" summary=\"Tehtävän palautus\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763498207033</created>\r\n      <option name=\"number\" value=\"LOCAL−00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00002\" />\r\n      <updated>1763498207033</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Tehtävän palautus\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Tehtävän palautus\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision cee421fc979518efb936da74557f79a3495a00d7)
++++ b/.idea/workspace.xml	(date 1763498906182)
+@@ -4,7 +4,80 @@
+     <option name="autoReloadType" value="NONE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e339a99b-10b2-4ea7-bc92-cd3b08c260f7" name="Changes" comment="Tehtävän palautus" />
++    <list default="true" id="e339a99b-10b2-4ea7-bc92-cd3b08c260f7" name="Changes" comment="Tehtävän palautus">
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_11_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_compose_1_11_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_4_1_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_jvm_1_9_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_2_0.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_jvm_1_5_0.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_animation_animation_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_animation_animation_core_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_foundation_foundation_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_material3_material3_android_1_3_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_material_material_ripple_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_runtime_runtime_android_1_9_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_runtime_runtime_annotation_android_1_9_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_android_1_9_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_test_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_test_manifest_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_text_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_compose_ui_ui_util_android_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_1_0.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_ktx_1_2_0.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_17_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_17_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_viewtree_1_0_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_jvm_2_9_4.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_9_4_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_android_2_9_4_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_compose_android_2_9_4_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_android_2_9_4_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_android_2_9_4_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_android_2_9_4_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_android_1_3_1_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_compose_android_1_3_1_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_3_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_8_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_7_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_services_storage_1_6_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_tracing_tracing_1_2_0_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_30_0.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_23_0_0.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_2_0_21.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_8_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_8_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm_1_8_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_core_jvm_1_7_3.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jspecify_jspecify_1_0_0.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules/Tavoitesyke.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.androidTest.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.main.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Tavoitesyke.app.unitTest.iml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -13,7 +86,7 @@
+   <component name="ClangdSettings">
+     <option name="formatViaClangd" value="false" />
+   </component>
+-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\n-asu\.android\avd\Medium_Phone.avd)]" />
++  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+   <component name="ExternalProjectsData">
+     <projectState path="$PROJECT_DIR$">
+       <ProjectState />
+@@ -39,10 +112,22 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "customColor": "",
+-  "associatedIndex": 0
+-}]]></component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;SartsaPartsa&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/SartsaPartsa/Natiivi_Ohjelmointi_Tavoitesyke.git&quot;,
++    &quot;accountId&quot;: &quot;a4937a9b-83db-4132-9ff8-f1d5532fa350&quot;
++  }
++}</component>
++  <component name="ProjectColorInfo">{
++  &quot;customColor&quot;: &quot;&quot;,
++  &quot;associatedIndex&quot;: 0
++}</component>
+   <component name="ProjectId" id="35f8Wi71mdZbGJZDEaKz9510dQK" />
+   <component name="ProjectReloadState">
+     <option name="STATE" value="1" />
+@@ -51,19 +136,22 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "Android App.app.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.cidr.known.project.marker": "true",
+-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "cf.first.check.clang-format": "false",
+-    "cidr.known.project.marker": "true",
+-    "git-widget-placeholder": "main"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
++    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager">
+     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+       <module name="Tavoitesyke.app" />
+@@ -160,8 +248,26 @@
+       <option name="presentableId" value="LOCAL−00002" />
+       <updated>1763498207033</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL−00003" summary="Tehtävän palautus">
++      <option name="closed" value="true" />
++      <created>1763498548787</created>
++      <option name="number" value="LOCAL−00003" />
++      <option name="presentableId" value="LOCAL−00003" />
++      <updated>1763498548787</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Tehtävän palautus" />
