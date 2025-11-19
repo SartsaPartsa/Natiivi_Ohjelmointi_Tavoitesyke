@@ -60,3 +60,5 @@ Tekstit haetaan string-resursseista
 ## 📚 Oppimisresurssit
 
 ### Jetpack Compose
+https://developer.android.com/jetpack/compose
+
